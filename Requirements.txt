@@ -1,0 +1,6 @@
+pandas
+nltk
+pyspellchecker
+textblob
+scikit-learn
+rank_bm25
