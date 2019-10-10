@@ -21,4 +21,4 @@ Before running the code you have to install some prerequisite libraries
 
 or just run one command
 
-"!pip install -r Requirements.txt"
+!pip install -r Requirements.txt
