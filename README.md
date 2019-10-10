@@ -7,11 +7,16 @@ Amazon beauty product dataset, can be downloaded from below link
 
 Before running the code you have to install some prerequisite libraries
 !pip install pandas
+
 !pip install nltk
+
 !pip install pyspellchecker
+
 !pip install textblob
+
 !pip install scikit-learn
+
 !pip install rank_bm25
 
 or just run one command
-!pip install -r Requirements.txt
+"!pip install -r Requirements.txt"
